@@ -2,3 +2,4 @@
 - 👀 I’m interested in ... blockchain
 - 🌱 I’m currently learning ... Plutus / Haskell language
 - 📫 How to reach me ... on Telegram at @ThePauch or on Discord at Pauch#2027
+- 📝 My main activity is SEO/SEM writing, here is one of my article: https://nonfungible.com/blog/physical-nft-art-or-physical-art-nft
