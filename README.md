@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PPauch
+- 👀 I’m interested in ... blockchain
+- 🌱 I’m currently learning ... Plutus / Haskell language
+- 📫 How to reach me ... on Telegram at @ThePauch or on Discord at Pauch#2027
